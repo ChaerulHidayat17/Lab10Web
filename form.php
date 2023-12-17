@@ -1,7 +1,7 @@
 <?php
 /**
  * Nama Class: Form
- * Deskripsi: CLass untuk membuat form inputan text sederhan
+ * Deskripsi: CLass untuk membuat form inputan text sederhana
  **/
 class Form
 {
